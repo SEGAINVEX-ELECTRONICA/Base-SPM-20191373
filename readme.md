@@ -7,19 +7,16 @@
 ### Enero 2020
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/blob/master/Imagenes/BaseSPM_20200148_1.jpg "frontal")
 
-## [SOFTWARE Arduino DUE](https://github.com/PatricioCoronado/Base-SPM-Arduino-DUE)
-Desarrollado con Visual Studio Code y PlatformIO
-
-## [SOFTWARE DE PC](https://github.com/PatricioCoronado/Base-SPM-CVI)
-Desarrollado con LabWindos/CVI con licencia para SEGAINVEX-Electrónica.
-
 ## [SOFTWARE PARA TABLET](https://github.com/PatricioCoronado/Base-SPM-tablet)
-Desarrollado con Android Studio 4.0.1
+Desarrollado con [Android Studio 4.0.1](https://developer.android.com/studio?hl=es)
 
 ## [SOFTWARE DE PC](https://github.com/PatricioCoronado/Base-SPM-Java)
-Desarrollado en Java con Eclipase.
+Desarrollado en [Java](https://www.java.com/es/) con [Eclipase](https://www.eclipse.org/)
 
-## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/master/Esquemas)
+## [FIRMWARE Arduino DUE](https://github.com/PatricioCoronado/Base-SPM-Arduino-DUE)
+Desarrollado con [Visual Studio Code](https://code.visualstudio.com/) y [PlatformIO](https://platformio.org/)
+    
+## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/tree/master/Esquemas)
 
 ## [MANUAL](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/tree/master/Manual)
 ### 
